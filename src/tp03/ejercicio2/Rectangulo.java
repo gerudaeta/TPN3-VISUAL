@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tp03.punto2;
+package tp03.ejercicio2;
 
 /**
  *
@@ -14,8 +14,7 @@ public class Rectangulo {
     /*
         Metodo que muestra los datos que faltan, se pasan como parametro x1,y1
         base y altura con sus respectivos tipos de datos.
-    */
-    
+    */    
     public void datosFaltantes (double x1 , double y1 , double base , double altura){
         System.out.println("Las Coordenadas de los puntos del rectangulo son:");
         System.out.println("Punto 1 es x1 = "+x1 + ", y1 = "+y1);

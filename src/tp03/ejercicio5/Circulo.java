@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tp03.punto11;
+package tp03.ejercicio5;
 
 /**
  *
  * @author german
  */
-public class Punto11 {
-    
-    public static void main(String[] args) {
-        
-    }
+public class Circulo {
     
 }
