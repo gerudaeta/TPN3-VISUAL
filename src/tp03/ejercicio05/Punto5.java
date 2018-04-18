@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tp03.ejercicio5;
+package tp03.ejercicio05;
 
 import java.util.Scanner;
-import tp03.ejercicio5.Circulo;
-import tp03.ejercicio5.GestorCirculo;
+import tp03.ejercicio05.Circulo;
+import tp03.ejercicio05.GestorCirculo;
 
 /**
  *
